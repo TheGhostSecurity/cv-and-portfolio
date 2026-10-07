@@ -1,8 +1,11 @@
 # Burhani H. Katimba — Portfolio
 
-A responsive portfolio for GitHub Pages, styled from the Canva slide references with an ivory and deep-green palette, editorial serif typography, and photo-led sections.
+A responsive portfolio styled from the Canva references with an ivory and deep-green palette, editorial typography, photo-led sections, and interactive project galleries.
 
-`index.html` is the GitHub Pages entry point. `index.original.html` is kept in sync for local editing. Images are stored under `assets/`.
+- `index.html` is the GitHub Pages entry point.
+- `index.original.html` is synchronized for local editing.
+- The CV PDF is linked from the page header at `assets/cv/Burhani_Katimba_CV.pdf`.
+- SomaCloud's 59 labs are hidden inside a closed-by-default explorer on the project card, with search and phase filters.
 
 ## Publish with GitHub Pages
 
